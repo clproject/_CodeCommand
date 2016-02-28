@@ -1,6 +1,0 @@
-//Rewrite to www
-Options +FollowSymLinks
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^clproject.github.io[nc]
-RewriteRule ^(.*)$ http://codecommand.clproject.github.io/$1 [r=301,nc]
- 
