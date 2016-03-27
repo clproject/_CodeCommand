@@ -1,2 +1,2 @@
 # _CodeCommand
-[![Build Status](https://img.shields.io/appveyor/ci/project/CodeCommand.svg)](https://ci.appveyor.com/project/Code-Lyoko/codecommand)
+[![Build status](https://ci.appveyor.com/api/projects/status/5jgf29ds0rxhct4x?svg=true)](https://ci.appveyor.com/project/Code-Lyoko/codecommand)
