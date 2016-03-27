@@ -5,8 +5,6 @@ configuration: Debug
 platform: Any CPU
 build:
     verbosity: minimal
-test_script:
-- ps: cd home
 clone_folder: C:\
 environment:
   PATH: C:\Python27\;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\Git\cmd
