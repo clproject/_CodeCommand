@@ -5,3 +5,5 @@ configuration: Debug
 platform: Any CPU
 build:
     verbosity: minimal
+test_script:
+- ps: cd home
