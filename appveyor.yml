@@ -2,7 +2,7 @@ version: 'Build #{build} at ''{branch}'''
 pull_requests: 
     do_not_increment_build_number: true
 matrix:
-    - PYTHON: "C:\\Python35-x64"
+    PYTHON: "C:\\Python35-x64"
 configuration: Debug
 platform: Any CPU
 build:
